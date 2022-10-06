@@ -7,3 +7,7 @@ git add README.md
 git commit -m "README.md"
 git push -u origin master
 ```
+# 맥 페이지 새로고침 단축키
+```bash
+cmd + R
+```
