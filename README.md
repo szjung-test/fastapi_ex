@@ -11,3 +11,7 @@ git push -u origin master
 ```bash
 cmd + R
 ```
+
+# confidence threshold 
+- 값에 따른 precision과 recall 값의 변화를 그래프로 표현한 것
+
